@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bbiyak2929)](https://solved.ac/profile/bbiyak/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bbiyak)](https://solved.ac/profile/bbiyak/)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)                    
 
