@@ -1,4 +1,4 @@
-### 안녕하세요 AI 와 벡엔드 공부를 하고 있는 박재민 입니다 👋
+### 안녕하세요 AI 와 백엔드 공부를 하고 있는 박재민 입니다 👋
 
 <!--
 **bbiyak2929/bbiyak2929** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
